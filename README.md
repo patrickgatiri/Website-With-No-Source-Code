@@ -1,7 +1,7 @@
 ## Website-With-No-Source-Code
 ====
 
-Ever seen a website that doesn't contain any source code?
+Ever seen a website that renders without displaying its source code?
 
 > Clone this repo
 
